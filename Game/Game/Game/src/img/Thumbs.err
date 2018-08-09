@@ -1,0 +1,20 @@
+/COM,ANSYS RELEASE Release 16.2      BUILD 16.2      UP20150629       16:14:03
+
+ *** ERROR ***                           CP =       1.108   TIME= 16:14:05
+ Data file Z:\workspace\Game\src\img\Thumbs.db has incorrect format, is  
+ missing READ/WRITE permission, or is empty for RESUME.                  
+
+ *** WARNING ***                         CP =       1.108   TIME= 16:14:05
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        
+
+ *** ERROR ***                           CP =       1.108   TIME= 16:14:24
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+
+ *** WARNING ***                         CP =       1.108   TIME= 16:14:24
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        
